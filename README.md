@@ -1,0 +1,5 @@
+**Project Name** : Phonepe Pulse Data Visualization and Exploration.
+
+**Technologies Used** : Github Cloning, Python, Pandas, PostgreSQL, PostgreSQL-connector-python, Streamlit, and Plotly.
+
+**Problem Statement** : The Phonepe pulse Github repository contains a large amount of data related to various metrics and statistics. The goal is to extract this data and process it to obtain insights and information that can be visualized in a user-friendly manner.
